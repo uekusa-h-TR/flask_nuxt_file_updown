@@ -1,1 +1,5 @@
-# flask_nuxt_file_updown
+# Flaskとvueを使ったファイルのアップロードとダウンロードのサンプル
+
+2つのアプリケーション
+- client (nuxt)
+- server (flask)
